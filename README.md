@@ -14,7 +14,36 @@ Partie 2 — Développement du Web Service PHP 8
 Étape 7 – Tester les Web Services avec Advanced REST Client
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11d5668f-b154-4dff-8f01-497ef24acd50" />
 
-<img width="1920" height="819" alt="image" src="https://github.com/user-attachments/assets/508419c7-186d-4ea5-9a34-0138a5356f10" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/449bffa9-329e-4a2f-bc47-eb4cedb1984d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35af00da-e689-4016-bd3c-8c3225f034f3" />
+
+<img width="1913" height="934" alt="image" src="https://github.com/user-attachments/assets/9cf716c5-fc8e-40bd-8397-a1879dc9535c" />
+
+Partie 3 — Application Android (Volley + Gson)
+<img width="1357" height="868" alt="image" src="https://github.com/user-attachments/assets/a945fd9b-5efc-41c9-9532-163328ea67ac" />
+
+<img width="1920" height="574" alt="image" src="https://github.com/user-attachments/assets/4beddaf5-a498-4e6a-a49f-8870722a9e42" />
+
+<img width="900" height="475" alt="image" src="https://github.com/user-attachments/assets/e86575f3-eb9d-4703-a525-1e32c175be5f" />
+
+<img width="1233" height="580" alt="image" src="https://github.com/user-attachments/assets/ac3eec91-bb91-431e-917b-a5b061b7dcda" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bcef1f95-6f4c-447e-83bd-ee76ad2dffbb" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57a36993-c340-42be-843a-622b3af808bf" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0961346e-960b-4f09-86b9-5388d178c40b" />
+
+
+
+
+
+
+
+
+
+
 
 
 
